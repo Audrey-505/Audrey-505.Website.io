@@ -1,0 +1,274 @@
+body {
+background-color: #FAFDD8;
+color: #E6BA95;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+footer {
+text-align: center;
+}
+
+.colored-section{
+}
+
+.helloworld {
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.myname {
+  font-size: 80px;
+  line-height: 1.1;
+}
+
+.lovelearning {
+  font-size: 80px;
+  line-height: 1.1;
+}
+
+.container-flow {
+  padding: 8% 20%;
+  text-align: left;
+}
+
+
+.container-fluid {
+ text-align: center;
+ padding-bottom: 5%;
+ position: relative;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navlogo {
+  width: 65%;
+  height: 65%;
+}
+
+.navbar-brand {
+
+}
+
+.nav-item {
+  padding: 15px 23px;
+}
+
+.nav-link {
+  background-color: #FAFDD8;
+  color: #E6BA95;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nav-linkone {
+position: relative;
+top: 8px;
+}
+
+.navbar-collapse a {
+  color: #E6BA95;
+  text-decoration: none;
+}
+
+.sideemail {
+  width: 40px;
+    position: fixed;
+    bottom: 0px;
+    left: auto;
+    right: 40px;
+    z-index: 20;
+    color: #E6BA95;
+}
+
+.sideemailtwo {
+  display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+}
+
+.stylesideemail {
+  font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 0.1em;
+    -webkit-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.sideemailtwo a {
+    color: #E6BA95;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.bodyintro {
+
+}
+
+.contactdiv {
+  position:absolute;
+  left: 20%;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  position: relative;
+}
+
+
+ .contactline {
+    color: #E6BA95;
+    text-decoration: none;
+    background-color: transparent;
+    border: 1px solid #E6BA95;
+    border-radius: 3px;
+    padding: 1.25rem 1.75rem;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    margin-top: 50px;
+    left: 350px;
+}
+
+.contactdiv a {
+  color: #E6BA95;
+  text-decoration: none;
+}
+
+
+.resumebox {
+  color: #E6BA95;
+    background-color: transparent;
+    border: 1px solid #E6BA95;
+    border-radius: 3px;
+    padding: 0.75rem 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.resumeboxdiv a {
+  color: #E6BA95;
+  text-decoration: none;
+}
+
+.contact-button {
+  position: relative;
+  left: 335px;
+  margin: 25px;
+  color: #E6BA95;
+  background-color: transparent;
+  border: 1px solid #E6BA95;
+
+}
+
+.techList {
+  position: relative;
+  left: 135px;
+  bottom: 112px;
+
+}
+
+.picdiv {
+  width: 72%;
+  position: absolute;
+  left: 375px;
+  top: 1900px;
+}
+
+.audreypic {
+  width: 25%;
+  position: absolute;
+  left: 475px;
+  bottom: 220px;
+  border-radius: 30px;
+}
+
+.boxone {
+background-color: #E6BA95;
+display: inline-block;
+width: 300px;
+height: 300px;
+position: relative;
+bottom: 24px;
+}
+
+
+.box {
+background-color: #E6BA95;
+display: inline-block;
+width: 300px;
+height: 300px;
+border-radius: 10px;
+}
+
+.projecttitle {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.projectlink {
+  text-decoration: none;
+}
+
+.projectdiv {
+  color: #000000;
+}
+
+.projecttwodiv {
+  color: #000000;
+}
+
+.projectthreediv {
+  color: #000000;
+}
+
+.projectdiv a {
+  background-color: #E6BA95;
+  color: #000000;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+}
+
+.projecttwodiv a {
+  background-color: #E6BA95;
+  color: #000000;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+}
+
+.projectthreediv a {
+  color: #000000;
+  text-decoration: none;
+  background-color: #E6BA95;
+  display: inline-block;
+  position: relative;
+}
+
+.github-imgone {
+  width: 10%;
+  position: relative;
+  left: 45px;
+  bottom: 20px;
+}
+
+.github-img {
+  width: 25%;
+  position: relative;
+  padding-top: 3%;
+}
